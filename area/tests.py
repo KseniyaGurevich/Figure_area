@@ -1,7 +1,7 @@
 import unittest
 import math
 
-from area import calculate_circle_area, calculate_triangle_area, figure_type
+from area.area import calculate_circle_area, calculate_triangle_area
 
 
 class TestGeometryFunctions(unittest.TestCase):
